@@ -1,0 +1,15 @@
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\bin\Debug\otelll.exe.config
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\bin\Debug\otelll.exe
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\bin\Debug\otelll.pdb
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.csproj.AssemblyReference.cache
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.Form1.resources
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.Properties.Resources.resources
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.Rezervasyon.resources
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.csproj.GenerateResource.cache
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.csproj.CoreCompileInputs.cache
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.csproj.CopyComplete
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.exe
+C:\Users\gamzenur.demir\source\repos\otelll\otelll\obj\Debug\otelll.pdb
